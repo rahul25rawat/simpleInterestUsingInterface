@@ -1,0 +1,2 @@
+# simpleInterestUsingInterface
+Simple Interest Calculator
